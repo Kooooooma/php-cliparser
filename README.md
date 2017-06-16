@@ -20,3 +20,4 @@ var_dump($parser->hasArgs('config'));
 var_dump($parser->getArgs('config'));
 var_dump($parser->getAllArgs());
 ```
+![](https://github.com/KomaBeyond/php-cliparser/blob/master/tests/Screenshot%20from%202017-06-16%2015%3A25%3A28.png)
