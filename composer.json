@@ -1,0 +1,26 @@
+{
+  "name": "php-cliparser/php-cliparser",
+  "description": "php cli args parser",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Koma",
+      "email": "komazhang@foxmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "CliParser\\": "src/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "license": "GPL v3.0"
+}
